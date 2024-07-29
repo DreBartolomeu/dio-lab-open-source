@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente atuo como front-end
 - 🌱 Estou estudando Typescript e Java
-- 👾 Manutenção de notebooks e desktops
+- 👾 Manutenção de Notebooks e Desktops
 - 😄 Meus pronomes são: Ela/Dela
 
 ###
